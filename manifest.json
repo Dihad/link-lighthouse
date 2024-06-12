@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Dihad",
+    "description": "A Chrome extension to save links of websites.",
+    "version": "1.0.0",
+    "action": {
+      "default_title": "Save Link",
+      "default_popup": "popup.html"
+    },
+
+    "permissions": [
+      "activeTab"
+    ]
+  }

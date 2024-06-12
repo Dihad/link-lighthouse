@@ -1,0 +1,22 @@
+body {
+    width: 210px; /* fixed width */
+    height: 300px;
+    background-color: #2A629A;
+    }
+#name{
+    color: #FF7F3E;
+    text-align: center;
+}
+#name1{
+    color: #FFDA78;
+    text-align: center;
+}
+
+    
+
+.link{
+    color: white;
+    text-align: left;
+    text-decoration: none;
+
+}
